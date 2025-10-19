@@ -2,7 +2,7 @@
 
 ## Descrição do Projeto
 
-Neste projeto, você realiza uma análise exploratória de dados e testes de hipóteses utilizando informações de corridas de táxi em Chicago. O objetivo é compreender padrões de uso, identificar bairros mais populares como destino e avaliar o impacto das condições meteorológicas na duração das corridas.
+Neste projeto, foi realizada uma análise exploratória de dados e testes de hipóteses utilizando informações de corridas de táxi em Chicago. O objetivo é compreender padrões de uso, identificar bairros mais populares como destino e avaliar o impacto das condições meteorológicas na duração das corridas.
 
 O projeto utiliza três conjuntos de dados CSV fornecidos:
 
