@@ -1,4 +1,4 @@
-# Sprint 7 – Projeto: Análise de Dados de Táxis em Chicago
+# Sprint  – Projeto: Análise de Dados de Táxis em Chicago
 
 ## Descrição do Projeto
 
